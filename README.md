@@ -1,9 +1,5 @@
 Simple Server Setup with Python SDK
 
-### Building Your First MCP Server
-
-Let's create a simple demo server with a tool:
-
 ```python
 # server.py
 from mcp.server.fastmcp import FastMCP
